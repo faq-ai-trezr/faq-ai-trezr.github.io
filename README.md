@@ -1,4 +1,4 @@
-# How to Setup Trézor Wallet | Trézor.io/Start
+# Trézor.io/Start – Quick Setup for Your Trézor Hardware Wallet
 
 If you are looking to securely store your cryptocurrencies, **Trézor hardware wallet** is one of the safest options available. To get started, the official setup begins at **Trézor.io/Start**, a dedicated web portal designed to help users initialize and manage their Trézor wallets easily and securely.
 
